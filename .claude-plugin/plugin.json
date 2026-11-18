@@ -1,0 +1,6 @@
+{
+  "name": "open-ai-design-agent",
+  "version": "1.0.0",
+  "description": "Turn a design brief into a full creative kit (logos, posters, social posts, ads, brand kits, motion ads) by planning deliverables, choosing the right image or video model per asset and driving the MuAPI Creative Agent, based on Open AI Design Agent.",
+  "keywords": ["design", "branding", "logo", "poster", "social media", "image generation", "video", "muapi"]
+}
